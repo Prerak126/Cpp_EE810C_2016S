@@ -1,7 +1,7 @@
 #include <iostream>
-#include <encryption.h>
-#include <messaging.h>
-#include <server.h>
+#include "hdr/encryption.h"
+#include "hdr/messaging.h"
+#include "hdr/server.h"
 using namespace std;
 
 int main(){
