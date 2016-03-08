@@ -5,6 +5,10 @@
 using namespace std;
 
 int main(){
+
 	cout << "hello, I am a messaging server! \n"; 
+	//Message mess;
+	//EncryptMessage(Message);
+	Test a("hey");
 	return 0;
 }
