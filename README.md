@@ -1,1 +1,18 @@
 Web server project for EE 810C for spring 2016.
+
+Authors:
+
+Client
+
+Server 
+	Sydney - killasydney
+
+Encryption
+	Mariam - MChatha91
+
+Messaging
+
+
+Lucy - lucymorcos
+Prerak - Prerak126
+Arpit - apate97
