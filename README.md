@@ -4,7 +4,7 @@ Authors:
 
 Client
 
-Server 
+Server
 	Sydney - killasydney
 
 Encryption
