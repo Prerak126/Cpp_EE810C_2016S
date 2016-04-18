@@ -1,0 +1,17 @@
+#include <iostream>
+#include <string>
+using namespace std;
+Class Encrypt{
+char Encrypt(char key, char in)
+{
+	return in ^ key;
+}
+
+cout<<string Encrypt(const string& content, char key)
+{
+	string out;
+	for (char ch : content)
+		out.push_back(Encrypt(key, ch));
+
+	return out;
+}
